@@ -1,1 +1,2 @@
-# Laptop_Analysis
+Problem Statement : 
+Predicting laptop prices accurately is crucial for both consumers and businesses, yet it's a complex task due to the interplay of various factors like brand, specifications, and features. This project addresses this challenge by developing a machine learning model that utilizes a comprehensive dataset of laptop characteristics to predict their prices. The resulting model aims to empower consumers with data-driven purchasing decisions and enable businesses to optimize pricing strategies.
